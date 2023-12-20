@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Nome do contato",
+    "numero": "5516xxxxx",
+    "isGroup": "false"
+  },
+  {
+    "nome": "Nome do Grupo",
+    "numero": "5516xxxxxxxx-xxxxxxxx",
+    "isGroup": "true"
+  }
+]
